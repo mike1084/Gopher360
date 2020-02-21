@@ -1,5 +1,7 @@
 #include "Gopher.h"
 #include "ConfigFile.h"
+#include "BaseWindow.cpp"
+
 
 // Description:
 //   Send a keyboard input to the system based on the key value
